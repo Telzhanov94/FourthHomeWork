@@ -1,6 +1,6 @@
 ﻿int k1=1;
-int k2=1;
-int b1=4;
+int k2=2;
+int b1=3;
 int b2=4;
 for (int x=-100; x<100;x++)
 {
