@@ -1,0 +1,15 @@
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\obj\Debug\net6.0\Coordinate.csproj.AssemblyReference.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\obj\Debug\net6.0\Coordinate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\obj\Debug\net6.0\Coordinate.AssemblyInfoInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\obj\Debug\net6.0\Coordinate.AssemblyInfo.cs
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\obj\Debug\net6.0\Coordinate.csproj.CoreCompileInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\bin\Debug\net6.0\Coordinate.exe
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\bin\Debug\net6.0\Coordinate.deps.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\bin\Debug\net6.0\Coordinate.runtimeconfig.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\bin\Debug\net6.0\Coordinate.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\bin\Debug\net6.0\Coordinate.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\obj\Debug\net6.0\Coordinate.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\obj\Debug\net6.0\refint\Coordinate.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\obj\Debug\net6.0\Coordinate.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\obj\Debug\net6.0\Coordinate.genruntimeconfig.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\FourthHomeWork\Coordinate\obj\Debug\net6.0\ref\Coordinate.dll
